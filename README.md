@@ -1,8 +1,8 @@
-# Smoke -h
+# AG grid
 
 ##### Commands to run 
 
-`$ npm run webpack`
+`$ npm install`
 
 `$ npm run dev`
 
